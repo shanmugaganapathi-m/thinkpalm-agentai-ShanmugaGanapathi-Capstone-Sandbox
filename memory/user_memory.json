@@ -1,0 +1,54 @@
+{
+  "sessions": [
+    {
+      "month": "March",
+      "year": 2026,
+      "total_income": 132542.0,
+      "total_spend": 103038.0,
+      "net_savings": 29504.0,
+      "savings_rate": 22.26,
+      "categories": {
+        "Food": 3750.0,
+        "Groceries": 10255.0,
+        "EMI/Loans": 28450.0,
+        "Insurance": 8500.0,
+        "Utilities": 3618.0,
+        "Entertainment": 3516.0,
+        "Shopping": 10499.0,
+        "Transport": 6230.0,
+        "Health": 3720.0,
+        "Savings/Investment": 15000.0,
+        "Education": 4500.0,
+        "Other": 5000.0
+      },
+      "transaction_count": 39,
+      "anomaly_count": 0,
+      "recommendations_count": 0
+    },
+    {
+      "month": "February",
+      "year": 2026,
+      "total_income": 132498.0,
+      "total_spend": 191826.0,
+      "net_savings": -59328.0,
+      "savings_rate": -44.78,
+      "categories": {
+        "Food": 8590.0,
+        "Groceries": 11360.0,
+        "EMI/Loans": 28450.0,
+        "Insurance": 8500.0,
+        "Utilities": 4138.0,
+        "Entertainment": 4206.0,
+        "Shopping": 33347.0,
+        "Transport": 19490.0,
+        "Health": 5470.0,
+        "Savings/Investment": 15000.0,
+        "Education": 4500.0,
+        "Other": 48775.0
+      },
+      "transaction_count": 42,
+      "anomaly_count": 0,
+      "recommendations_count": 0
+    }
+  ]
+}

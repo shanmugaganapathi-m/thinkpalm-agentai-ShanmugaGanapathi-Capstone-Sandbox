@@ -1,0 +1,29 @@
+{
+  "sessions": [
+    {
+      "month": "March",
+      "year": 2026,
+      "total_income": 132542.0,
+      "total_spend": 103038.0,
+      "net_savings": 29504.0,
+      "savings_rate": 22.26,
+      "categories": {
+        "Food": 3750.0,
+        "Groceries": 10255.0,
+        "EMI/Loans": 28450.0,
+        "Insurance": 8500.0,
+        "Utilities": 3618.0,
+        "Entertainment": 3516.0,
+        "Shopping": 10499.0,
+        "Transport": 6230.0,
+        "Health": 3720.0,
+        "Savings/Investment": 15000.0,
+        "Education": 4500.0,
+        "Other": 5000.0
+      },
+      "transaction_count": 39,
+      "anomaly_count": 0,
+      "recommendations_count": 0
+    }
+  ]
+}
