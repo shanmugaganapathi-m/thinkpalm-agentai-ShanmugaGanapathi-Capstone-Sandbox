@@ -55,8 +55,8 @@ personal-finance-analyzer/
 ### 2. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/personal-finance-analyzer.git
-cd personal-finance-analyzer
+git clone https://github.com/shanmugaganapathi-m/thinkpalm-agentai-ShanmugaGanapathi-Capstone-Sandbox.git
+cd thinkpalm-agentai-ShanmugaGanapathi-Capstone-Sandbox
 ```
 
 ### 3. Create a virtual environment
