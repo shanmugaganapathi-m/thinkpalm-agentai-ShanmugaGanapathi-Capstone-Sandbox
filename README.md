@@ -49,7 +49,8 @@ personal-finance-analyzer/
 ### 1. Prerequisites
 
 - Python **3.11** or higher
-- An **Anthropic API key** — get one at [console.anthropic.com](https://console.anthropic.com)
+- If the AI analysis needed, An **Anthropic API key** — get one at [console.anthropic.com](https://console.anthropic.com)
+- You can still run the analysis tool, that will give analysis based on rules.
 
 ### 2. Clone the repository
 
